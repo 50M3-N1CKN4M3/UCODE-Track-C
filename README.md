@@ -8,7 +8,6 @@
     <a href="https://lms.ucode.world/users/plitovka/" target="_blank">
         <img src="https://github.com/PAXANDDOS/PAXANDDOS/blob/main/Images/Header/lms.png?raw=true" height="100px">
     </a>
-    <h2 align="center">Complete repostitory for UCODE Stage 2 projects</h2>
 </p> 
 <h3>Content:</h3>
 <ul>
@@ -200,7 +199,7 @@ Function name|Description|Grade|
 |```mx_sort_list```|Function that sorts the list’s contents in ascending order. Function ``` cmp ``` returns true if ```a ``` > ``` b``` and false in other cases.|100|
 
 <h1 id="pathfinder">Pathfinder</h1>
-<p>Date: October 2020</p>
+<p>Date: November 2020</p>
 
 ### Building the program
 <ol>
@@ -424,7 +423,7 @@ For example: `./uls -l test`
 <a href="https://github.com/Overwolf-live" target="_blank"><img src="https://github.com/PAXANDDOS/PAXANDDOS/blob/main/Images/Banners/ze.png?raw=true" height="70px"></a></p>
 
 <h1 id="ushell">ushell</h1>
-<p>Date: October 2020</p>
+<p>Date: November 2020</p>
 
 ### Building the program
 <ol>
